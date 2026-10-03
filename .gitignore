@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+.vercel/
+api/app.py
+api/test.py
