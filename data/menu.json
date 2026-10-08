@@ -194,9 +194,9 @@
 {"id": 201,"item_name": "Tadka Raita","category": "Raita","description": "","dine_in_price": 90,"pickup_price": 80,"online_price":115,"dine_in_active": true,"pickup_active": true,"online_active": true,"is_active": true},
 {"id": 202,"item_name": "Tamatar Mirchi Ka Salan","category": "Sabji Kuchh Hatke","description": "","dine_in_price": 0,"pickup_price": 155,"online_price":0,"dine_in_active": true,"pickup_active": true,"online_active": true,"is_active": true},
 {"id": 203,"item_name": "Tandoori Roti","category": "Tandoor Se","description": "","dine_in_price": 15,"pickup_price": 10,"online_price":18,"dine_in_active": true,"pickup_active": true,"online_active": true,"is_active": true},
-{"id": 204,"item_name": "Tandoori Roti With Butter","category": "Tandoor Se","description": "","dine_in_price": 25,"pickup_price": 15,"online_price":22,"dine_in_active": true,"pickup_active": true,"online_active": true,"is_active": true},
+{"id": 204,"item_name": "Tandoori Roti With Butter","category": "Tandoor Se","description": "","dine_in_price": 20,"pickup_price": 15,"online_price":22,"dine_in_active": true,"pickup_active": true,"online_active": true,"is_active": true},
 {"id": 205,"item_name": "Tawa Roti","category": "Tandoor Se","description": "","dine_in_price": 15,"pickup_price": 10,"online_price":20,"dine_in_active": true,"pickup_active": true,"online_active": true,"is_active": true},
-{"id": 206,"item_name": "Tawa Roti With Butter","category": "Tandoor Se","description": "","dine_in_price": 25,"pickup_price": 15,"online_price":25,"dine_in_active": true,"pickup_active": true,"online_active": true,"is_active": true},
+{"id": 206,"item_name": "Tawa Roti With Butter","category": "Tandoor Se","description": "","dine_in_price": 20,"pickup_price": 15,"online_price":25,"dine_in_active": true,"pickup_active": true,"online_active": true,"is_active": true},
 {"id": 207,"item_name": "Tawa Veg","category": "Sabji Kuchh Hatke","description": "","dine_in_price": 180,"pickup_price": 170,"online_price":225,"dine_in_active": true,"pickup_active": true,"online_active": true,"is_active": true},
 {"id": 208,"item_name": "Thums Up (750 Ml) PET","category": "Beverages","description": "","dine_in_price": 0,"pickup_price": 0,"online_price":40,"dine_in_active": true,"pickup_active": true,"online_active": true,"is_active": true},
 {"id": 209,"item_name": "Veg Biryani","category": "Chawal Shawal","description": "","dine_in_price": 180,"pickup_price": 160,"online_price":0,"dine_in_active": true,"pickup_active": true,"online_active": true,"is_active": true},
@@ -223,22 +223,52 @@
   "buffet_items": [
     {"id": 501,"item_name": "Papad","category": "Main Course","description": "","is_active": true},
     {"id": 502,"item_name": "Pickles","category": "Main Course","description": "","is_active": true},
+    {"id": 602,"item_name": "Salad","category": "Main Course","description": "","is_active": true},
+
+    
+    {"id": 604,"item_name": "Dahi vada","category": "Raita","description": "","is_active": true},
+    {"id": 605,"item_name": "Tadka Raita","category": "Raita","description": "","is_active": true},
     {"id": 504,"item_name": "Boondi Raita","category": "Raita","description": "","is_active": true},
     {"id": 505,"item_name": "Veg Raita","category": "Raita","description": "","is_active": true},
+
+    {"id": 515,"item_name": "Aloo Gobhi","category": "Vegetables","description": "","is_active": true},
+    {"id": 615,"item_name": "Aloo Palak","category": "Vegetables","description": "","is_active": true},
+    {"id": 715,"item_name": "Aloo Began","category": "Vegetables","description": "","is_active": true},
+    {"id": 815,"item_name": "Mutter Palak","category": "Vegetables","description": "","is_active": true},
+    {"id": 915,"item_name": "Gobhi Mutter","category": "Vegetables","description": "","is_active": true},
+    {"id": 516,"item_name": "Mix Veg","category": "Vegetables","description": "","is_active": true},
+    {"id": 716,"item_name": "Bhindi Masala","category": "Vegetables","description": "","is_active": true},
+
+    {"id": 521,"item_name": "Kadhai Paneer","category": "Paneer","description": "","is_active": true},
+    {"id": 522,"item_name": "Butter Paneer Masala","category": "Paneer","description": "","is_active": true},
+    {"id": 523,"item_name": "Mutter Paneer","category": "Paneer","description": "","is_active": true},
+    {"id": 524,"item_name": "Palak Paneer","category": "Paneer","description": "","is_active": true},
+    {"id": 524,"item_name": "Shahi Paneer","category": "Paneer","description": "","is_active": true},
+
+
     {"id": 507,"item_name": "Dal Makhani","category": "Dal","description": "","is_active": true},
     {"id": 508,"item_name": "Dal Tadka","category": "Dal","description": "","is_active": true},
+    {"id": 608,"item_name": "Dal Fry","category": "Dal","description": "","is_active": true},
+
     {"id": 509,"item_name": "Jeera Rice","category": "Rice","description": "","is_active": true},
     {"id": 510,"item_name": "Veg Pulao","category": "Rice","description": "","is_active": true},
+    {"id": 610,"item_name": "Plain Rice","category": "Rice","description": "","is_active": true},
+    {"id": 710,"item_name": "Muter Pulao","category": "Rice","description": "","is_active": true},
+
     {"id": 511,"item_name": "Namkeen Puri","category": "Breads","description": "","is_active": true},
     {"id": 512,"item_name": "Plain Puri","category": "Breads","description": "","is_active": true},
     {"id": 522,"item_name": "Tawa Roti","category": "Breads","description": "","is_active": true},
-    {"id": 513,"item_name": "Onion Salad","category": "Salad","description": "","is_active": true},
-    {"id": 514,"item_name": "Kachumber Salad","category": "Salad","description": "","is_active": true},
-    {"id": 515,"item_name": "Aloo Jeera","category": "Vegetables","description": "","is_active": true},
-    {"id": 516,"item_name": "Mix Veg","category": "Vegetables","description": "","is_active": true},
+    
     {"id": 517,"item_name": "Gulab Jamun","category": "Desserts","description": "","is_active": true},
     {"id": 518,"item_name": "Rasgulla","category": "Desserts","description": "","is_active": true},
     {"id": 519,"item_name": "Rasmalai","category": "Desserts","description": "","is_active": true},
-    {"id": 520,"item_name": "Kheer","category": "Desserts","description": "","is_active": true}
+    {"id": 520,"item_name": "Kheer","category": "Desserts","description": "","is_active": true},
+    {"id": 620,"item_name": "Halwa","category": "Desserts","description": "","is_active": true},
+
+    {"id": 720,"item_name": "Hara Bhara Kebab","category": "Starter","description": "","is_active": true},
+    {"id": 820,"item_name": "Mix Pakoda","category": "Starter","description": "","is_active": true},
+    {"id": 920,"item_name": "Noodle","category": "Starter","description": "","is_active": true}
+
+
   ]
 }
