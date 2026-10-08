@@ -51,7 +51,7 @@ MENU_TEMPLATE="""
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title>{{ title }} | Vrindavan Dhaba Testing</title>
+<title>{{ title }} | Vrindavan Dhaba</title>
 <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;800;900&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
@@ -142,7 +142,7 @@ body{background:var(--bg);font-family:'Plus Jakarta Sans',sans-serif;color:var(-
 <span class="status-pill"><i class="bi bi-clock-fill me-1"></i>Open • 11 AM - 12 PM</span>
 <span class="status-pill"><i class="bi bi-star-fill me-1" style="color:var(--gold)"></i>4.9 (9.2k+)</span>
 </div>
-<h1 class="brand-header">🛕 VRINDAVAN DHABA Testing 2.0</h1>
+<h1 class="brand-header">🛕 VRINDAVAN DHABA</h1>
 <p class="small text-white-50 m-0 mt-1">Authentic Pure Vegetarian Culinary Experience</p>
 </div>
 
