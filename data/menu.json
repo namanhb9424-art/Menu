@@ -238,17 +238,20 @@
     {"id": 915,"item_name": "Gobhi Mutter","category": "Vegetables","description": "","is_active": true},
     {"id": 516,"item_name": "Mix Veg","category": "Vegetables","description": "","is_active": true},
     {"id": 716,"item_name": "Bhindi Masala","category": "Vegetables","description": "","is_active": true},
+    {"id": 816,"item_name": "Veg Kolhapuri","category": "Vegetables","description": "","is_active": true},
 
     {"id": 521,"item_name": "Kadhai Paneer","category": "Paneer","description": "","is_active": true},
     {"id": 522,"item_name": "Butter Paneer Masala","category": "Paneer","description": "","is_active": true},
     {"id": 523,"item_name": "Mutter Paneer","category": "Paneer","description": "","is_active": true},
     {"id": 524,"item_name": "Palak Paneer","category": "Paneer","description": "","is_active": true},
-    {"id": 524,"item_name": "Shahi Paneer","category": "Paneer","description": "","is_active": true},
+    {"id": 526,"item_name": "Shahi Paneer","category": "Paneer","description": "","is_active": true},
+    {"id": 525,"item_name": "Choley Paneer","category": "Paneer","description": "","is_active": true},
 
 
     {"id": 507,"item_name": "Dal Green Chilli","category": "Dal","description": "","is_active": true},
     {"id": 508,"item_name": "Dal Tadka","category": "Dal","description": "","is_active": true},
     {"id": 608,"item_name": "Dal Fry","category": "Dal","description": "","is_active": true},
+    {"id": 808,"item_name": "Kadhai Pakoda","category": "Dal","description": "","is_active": true},
 
     {"id": 509,"item_name": "Jeera Rice","category": "Rice","description": "","is_active": true},
     {"id": 510,"item_name": "Veg Pulao","category": "Rice","description": "","is_active": true},
@@ -267,7 +270,8 @@
 
     {"id": 720,"item_name": "Hara Bhara Kebab","category": "Starter","description": "","is_active": true},
     {"id": 820,"item_name": "Mix Pakoda","category": "Starter","description": "","is_active": true},
-    {"id": 920,"item_name": "Noodle","category": "Starter","description": "","is_active": true}
+    {"id": 920,"item_name": "Noodle","category": "Starter","description": "","is_active": true},
+    {"id": 921,"item_name": "Spring Roll","category": "Starter","description": "","is_active": true}
 
 
   ]
